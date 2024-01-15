@@ -1,2 +1,2 @@
 # appFlaskInicial
-aplicacion que se basa en la practica de Flask y python en desarrollo web
+aplicacion en el framework Flask y python con el fin de resolver problemas de mediana complejidad.
